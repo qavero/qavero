@@ -1,7 +1,7 @@
-<h2> Привет, меня зовут Вероника и я Junior QA Engineer :female_detective: </h2>
+<h2> Hi, my name is Veronika and I'm a QA Engineer :female_detective: </h2>
 
 
-:woman_technologist: сейчас я работаю над проектом [Информационная платформа о всех IT-компаниях Octopus](https://github.com/Information-platform-about-IT-companies)  <img src="https://github.com/qavero/qavero/blob/main/icons/%D0%BB%D0%BE%D0%B3%D0%BE.jpg" title="Octopus" alt="Octopus" width="30" height=""/>
+:woman_technologist: I’m currently working on [Информационная платформа о всех IT-компаниях Octopus](https://github.com/Information-platform-about-IT-companies)  <img src="https://github.com/qavero/qavero/blob/main/icons/%D0%BB%D0%BE%D0%B3%D0%BE.jpg" title="Octopus" alt="Octopus" width="30" height=""/>
 
 
 ### :hammer_and_wrench: Tools:
