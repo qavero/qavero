@@ -14,7 +14,7 @@ I’m currently working on [Информационная платформа о �
 
 ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat3.png" title="" alt="" width="30" height="30"/> My CV
 
-- coming soon
+- [Link to my CV](https://drive.google.com/file/d/1hwUhtfsV8cCxPBEiwuZNrRqFLUJUPi2k/view?usp=sharing)
  
 
 ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat2.png" title="" alt="" width="30" height="30"/> Testing Documentation
