@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/qavero/qavero/main/icons/quality%20assurance.webp" title="" alt="" width="" height=""/>](https://qavero.github.io/) 
+[<img src="https://raw.githubusercontent.com/qavero/qavero/main/icons/quality%20assurance.webp" title="" alt="" width="" height="310"/>](https://qavero.github.io/) 
 
 <h2> Hi, my name is Veronika and I'm a QA Engineer <img src="https://github.com/qavero/qavero/blob/main/icons/search-cat.png" title="" alt="" width="30" height="30"/>  </h2>
 
