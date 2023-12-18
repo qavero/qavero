@@ -1,7 +1,9 @@
-<h2> Hi, my name is Veronika and I'm a QA Engineer :female_detective: </h2>
+<img src="https://raw.githubusercontent.com/qavero/qavero/main/icons/quality%20assurance.webp" title="" alt="" width="" height=""/> 
+
+<h2> Hi, my name is Veronika and I'm a QA Engineer <img src="https://github.com/qavero/qavero/blob/main/icons/search-cat.png" title="" alt="" width="30" height="30"/>  </h2>
 
 
-:woman_technologist:  &nbsp; I’m currently working on [Информационная платформа о всех IT-компаниях Octopus](https://github.com/Information-platform-about-IT-companies)  <img src="https://github.com/qavero/qavero/blob/main/icons/%D0%BB%D0%BE%D0%B3%D0%BE.jpg" title="Octopus" alt="Octopus" width="30" height=""/>
+<img src="https://github.com/qavero/qavero/blob/main/icons/kot-za-kompom.jpg" title="" alt="" width="30" height="30"/>  &nbsp; I’m currently working on [Информационная платформа о всех IT-компаниях Octopus](https://github.com/Information-platform-about-IT-companies)
 
 
 ### 🔨   Tools:
