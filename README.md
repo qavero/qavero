@@ -3,21 +3,21 @@
 <h2> Hi, my name is Veronika and I'm a QA Engineer <img src="https://github.com/qavero/qavero/blob/main/icons/search-cat.png" title="" alt="" width="30" height="30"/>  </h2>
 
 
-<img src="https://github.com/qavero/qavero/blob/main/icons/kot-za-kompom.jpg" title="" alt="" width="30" height="30"/>  &nbsp; I’m currently working on [Информационная платформа о всех IT-компаниях Octopus](https://github.com/Information-platform-about-IT-companies)
+I’m currently working on [Информационная платформа о всех IT-компаниях Octopus](https://github.com/Information-platform-about-IT-companies)
 
 
-### 🔨   Tools:
+### <img src="https://github.com/qavero/qavero/blob/main/icons/cat1.png" title="" alt="" width="30" height="30"/> My Tools:
 
 <img src="https://github.com/qavero/qavero/blob/main/icons/Postman.png" title="Postman" alt="Postman" width="30" height="30"/>  <img src="https://github.com/qavero/qavero/blob/main/icons/swagger.png" title="Swagger" alt="Swagger" width="30" height="30"/>   <img src="https://github.com/qavero/qavero/blob/main/icons/devtools.png" title="DevTools" alt="DevTools" width="30" height="30"/>  <img src="https://github.com/qavero/qavero/blob/main/icons/Qase.io.png" title="Qase.io" alt="Qase.io" width="30" height="30"/>  <img src="https://github.com/qavero/qavero/blob/main/icons/youtrack.png" title="YouTrack" alt="YouTrack" width="30" height="30"/>  <img src="https://github.com/qavero/qavero/blob/main/icons/figma.svg" title="Figma" alt="Figma" width="30" height=""/> <img src="https://github.com/qavero/qavero/blob/main/icons/cygwin.png" title="CygWin" alt="CygWin" width="30" height="30"/>  <img src="https://github.com/qavero/qavero/blob/main/icons/charlesproxy.png" title="Charles proxy" alt="Charles proxy" width="30" height="30"/>  <img src="https://github.com/qavero/qavero/blob/main/icons/Android_Studio_icon_(2023).svg.png" title="Android Studio" alt="Android Studio" width="30" height="30"/>  <img src="https://github.com/qavero/qavero/blob/main/icons/Sql.png" title="SQL" alt="SQL" width="30" height="30"/>  <img src="https://github.com/qavero/qavero/blob/main/icons/github_logo_icon.png" title="Github" alt="Github" width="30" height="30"/> <img src="https://github.com/qavero/qavero/blob/main/icons/miro.png" title="Miro" alt="Miro" width="30" height="30"/> <img src="https://github.com/qavero/qavero/blob/main/icons/icons8-slack-new-480.png" title="Slack" alt="Slack" width="30" height="30"/>    
 
 
 
-### My CV
+### <img src="https://github.com/qavero/qavero/blob/main/icons/cat3.png" title="" alt="" width="30" height="30"/> My CV
 
 - coming soon
  
 
-### Testing Documentation
+### <img src="https://github.com/qavero/qavero/blob/main/icons/cat2.png" title="" alt="" width="30" height="30"/> Testing Documentation
 - [Checklists](https://docs.google.com/spreadsheets/d/1BpmtQwwGEh1iYr-TKAZOLygV3b1avDg6/edit?usp=sharing&ouid=115646348404654575918&rtpof=true&sd=true)
 - [Test-cases API](https://docs.google.com/spreadsheets/d/1pKo2sUtvwHdVIqn_s7tBqNtCifjZSGAk/edit?usp=sharing&ouid=115646348404654575918&rtpof=true&sd=true)
 - [Bug reports](https://github.com/Information-platform-about-IT-companies/Qase_bugs/issues)
@@ -27,7 +27,7 @@
 - [Software Requirements Specification, SRS](https://docs.google.com/document/d/1RF9IzF6Yn1Un1Fa2JguudVVd95iR6qz6ySB90NWGfGQ/edit?usp=sharing)
 - [Test summary report](https://docs.google.com/document/d/19FiChlIkmc-dI6vKjPcVltNQrw1F7sC3LgU0QazeXzA/edit)
   
-### Cetificates
+### <img src="https://github.com/qavero/qavero/blob/main/icons/cat4.png" title="" alt="" width="30" height="30"/> Cetificates
 
 - coming soon
 
