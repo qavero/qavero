@@ -29,7 +29,7 @@
   
 ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat4.png" title="" alt="" width="30" height="30"/> Cetificates
 
-- coming soon
+- [Можно посмотреть тут](https://github.com/qavero/QA-Portfolio?tab=readme-ov-file#-cetificates)
 
 <!--
 ![Postman](https://img.shields.io/badge/Postman-lightgrey?style=for-the-badge&logo=postman
