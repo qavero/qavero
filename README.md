@@ -12,12 +12,12 @@
 
 
 
-### <img src="https://github.com/qavero/qavero/blob/main/icons/cat3.png" title="" alt="" width="30" height="30"/> my CV
+### <img src="https://github.com/qavero/qavero/blob/main/icons/cat3.png" title="" alt="" width="30" height="30"/> my CV:
 
 - [Link to my CV](https://drive.google.com/file/d/1hwUhtfsV8cCxPBEiwuZNrRqFLUJUPi2k/view?usp=sharing)
  
 
-### <img src="https://github.com/qavero/qavero/blob/main/icons/cat2.png" title="" alt="" width="30" height="30"/> Testing Documentation
+### <img src="https://github.com/qavero/qavero/blob/main/icons/cat2.png" title="" alt="" width="30" height="30"/> Testing Documentation:
 - [Checklists](https://docs.google.com/spreadsheets/d/1BpmtQwwGEh1iYr-TKAZOLygV3b1avDg6/edit?usp=sharing&ouid=115646348404654575918&rtpof=true&sd=true)
 - [Test-cases API](https://docs.google.com/spreadsheets/d/1pKo2sUtvwHdVIqn_s7tBqNtCifjZSGAk/edit?usp=sharing&ouid=115646348404654575918&rtpof=true&sd=true)
 - [Bug reports](https://github.com/Information-platform-about-IT-companies/Qase_bugs/issues)
@@ -27,11 +27,17 @@
 - [Software Requirements Specification, SRS](https://docs.google.com/document/d/1RF9IzF6Yn1Un1Fa2JguudVVd95iR6qz6ySB90NWGfGQ/edit?usp=sharing)
 - [Test summary report](https://docs.google.com/document/d/19FiChlIkmc-dI6vKjPcVltNQrw1F7sC3LgU0QazeXzA/edit)
   
-### <img src="https://github.com/qavero/qavero/blob/main/icons/cat4.png" title="" alt="" width="30" height="30"/> Cetificates
+### <img src="https://github.com/qavero/qavero/blob/main/icons/cat4.png" title="" alt="" width="30" height="30"/> Cetificates:
 
 - [Можно посмотреть тут](https://github.com/qavero/QA-Portfolio?tab=readme-ov-file#-cetificates)
 
+ ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat8.png" title="" alt="" width="30" height="30"/> Contact:
+ [<img src="https://github.com/qavero/qavero/blob/main/icons/gmail.gif" title="" alt="" width="30" height="30"/>](mailto:magelat@gmail.com) [<img src="https://github.com/qavero/qavero/blob/main/icons/telegram.gif" title="" alt="" width="30" height="30"/>](https://t.me/qavero)
+  
+
 <!--
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:magelat@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-@-blue?style=flat&logo=LinkedIn&logoColor=white)]
 ![Postman](https://img.shields.io/badge/Postman-lightgrey?style=for-the-badge&logo=postman
 )
 ![Swagger](https://img.shields.io/badge/Swagger-lightgray?style=for-the-badge&logo=swagger
