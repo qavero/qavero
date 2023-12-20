@@ -3,7 +3,7 @@
 <h2> Привет, меня зовут Вероника и я инженер по тестированию <img src="https://github.com/qavero/qavero/blob/main/icons/search-cat.png" title="" alt="" width="30" height="30"/>  </h2>
 
 
-<img src="https://github.com/qavero/qavero/blob/main/icons/cat5.png" title="" alt="" width="30" height="30"/>  сейчас я работаю над проектом [Информационная платформа о всех IT-компаниях "Octopus"](https://github.com/Information-platform-about-IT-companies)
+<img src="https://github.com/qavero/qavero/blob/main/icons/cat5.png" title="" alt="" width="" height="30"/>  сейчас я работаю над проектом [Информационная платформа о всех IT-компаниях "Octopus"](https://github.com/Information-platform-about-IT-companies)
 
 
 ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat1.png" title="" alt="" width="30" height="30"/> my Tools:
@@ -32,7 +32,7 @@
 - [Можно посмотреть тут](https://github.com/qavero/QA-Portfolio?tab=readme-ov-file#-cetificates)
 
  ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat8.png" title="" alt="" width="30" height="30"/> Contact:
- [<img src="https://github.com/qavero/qavero/blob/main/icons/icons8-gmail-94.png" title="magelat@gmail.com" alt="magelat@gmail.com" width="30" height="30"/>](mailto:magelat@gmail.com) [<img src="https://github.com/qavero/qavero/blob/main/icons/telegram480.png" title="@qavero" alt="@qavero" width="30" height="30"/>](https://t.me/qavero)
+ [<img src="https://github.com/qavero/qavero/blob/main/icons/icons8-gmail-94.png" title="magelat@gmail.com" alt="magelat@gmail.com" width="30" height="30"/>](mailto:magelat@gmail.com) [<img src="https://github.com/qavero/qavero/blob/main/icons/telegram480.png" title="@qavero" alt="@qavero" width="" height="30"/>](https://t.me/qavero)
   
 
 
