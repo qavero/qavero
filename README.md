@@ -34,7 +34,7 @@
  ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat8.png" title="" alt="" width="30" height="30"/> Contact:
  [<img src="https://github.com/qavero/qavero/blob/main/icons/icons8-gmail-94.png" title="magelat@gmail.com" alt="magelat@gmail.com" width="30" height="30"/>](mailto:magelat@gmail.com) [<img src="https://github.com/qavero/qavero/blob/main/icons/telegram480.png" title="@qavero" alt="@qavero" width="" height="30"/>](https://t.me/qavero)
   
-
+![](https://komarev.com/ghpvc/?username=qavero&color=30D5C8&style=plastic&label=views)
 
 
 
