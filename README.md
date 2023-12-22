@@ -14,7 +14,7 @@
 
 ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat3.png" title="" alt="" width="30" height="30"/> my CV:
 
-- [Link to my CV](https://drive.google.com/file/d/1hwUhtfsV8cCxPBEiwuZNrRqFLUJUPi2k/view?usp=sharing)
+- [Link to my CV](https://drive.google.com/file/d/1RDp1_ZF_cEGfOQAsu1m3Cv9HvgWiwND0/view?usp=sharing)
  
 
 ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat2.png" title="" alt="" width="30" height="30"/> Testing Documentation:
