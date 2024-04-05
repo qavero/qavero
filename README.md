@@ -16,7 +16,7 @@
 
 - [Link to my CV](https)
  
-
+<!--
 ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat2.png" title="" alt="" width="30" height="30"/> Testing Documentation:
 - [Checklists](https://docs.google.com/spreadsheets/d/1BpmtQwwGEh1iYr-TKAZOLygV3b1avDg6/edit?usp=sharing&ouid=115646348404654575918&rtpof=true&sd=true)
 - [Test-cases API](https://docs.google.com/spreadsheets/d/1pKo2sUtvwHdVIqn_s7tBqNtCifjZSGAk/edit?usp=sharing&ouid=115646348404654575918&rtpof=true&sd=true)
@@ -26,10 +26,12 @@
 - [Test Plans](https://docs.google.com/document/d/1UgCi4drOQ8S2DTSOmVKxEvwQNzKYLWFdWrbs5EhC2cE/edit?usp=sharing)
 - [Software Requirements Specification, SRS](https://docs.google.com/document/d/1RF9IzF6Yn1Un1Fa2JguudVVd95iR6qz6ySB90NWGfGQ/edit?usp=sharing)
 - [Test summary report](https://docs.google.com/document/d/19FiChlIkmc-dI6vKjPcVltNQrw1F7sC3LgU0QazeXzA/edit)
+
   
 ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat4.png" title="" alt="" width="30" height="30"/> Cetificates:
 
 - [Можно посмотреть тут](https://github.com/qavero/QA-Portfolio?tab=readme-ov-file#-cetificates)
+-->
 
  ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat8.png" title="" alt="" width="30" height="30"/> Contact:
  [<img src="https://github.com/qavero/qavero/blob/main/icons/icons8-gmail-94.png" title="magelat@gmail.com" alt="magelat@gmail.com" width="30" height="30"/>](mailto:magelat@gmail.com) [<img src="https://github.com/qavero/qavero/blob/main/icons/telegram480.png" title="@qavero" alt="@qavero" width="" height="30"/>](https://t.me/qavero)
