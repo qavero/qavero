@@ -3,7 +3,7 @@
 <h2> Привет, меня зовут Вероника и я инженер по тестированию <img src="https://github.com/qavero/qavero/blob/main/icons/search-cat.png" title="" alt="" width="30" height="30"/>  </h2>
 
 
-<img src="https://github.com/qavero/qavero/blob/main/icons/cat5.png" title="" alt="" width="" height="30"/>  сейчас я работаю над проектом [Модульная платформа](https://github.com/modular-platform-it)
+<img src="https://github.com/qavero/qavero/blob/main/icons/cat5.png" title="" alt="" width="" height="30"/>  сейчас я работаю над проектом [Модульная платформа. Конструктор ботов](https://github.com/modular-platform-it)
 
 
 ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat1.png" title="" alt="" width="30" height="30"/> my Tools:
