@@ -13,6 +13,8 @@
 ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat4.png" title="" alt="" width="30" height="30"/> Изучаю сейчас:
 <a href="https://github.com/qavero/Docker"><code><img src="https://github.com/qavero/qavero/blob/main/icons/docker_original_wordmark_logo_icon_146557.png" title="Docker" alt="Docker" width="40" height=""/></code></a>  <code><img src="https://github.com/qavero/qavero/blob/main/icons/pngwing.com%20(1).png" title="Python" alt="Python" width="40" height=""/></code> <code><img src="https://github.com/qavero/qavero/blob/main/icons/icons8-pycharm-480.png" title="PyCharm" alt="PyCharm" width="40" height=""/></code>
 
+### <img src="https://github.com/qavero/qavero/blob/main/icons/cat2.png" title="" alt="" width="30" height="30"> Моё портфолио:
+
 ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat3.png" title="" alt="" width="30" height="30"/> Моё резюме:
 
 - [Link to my CV](https)
