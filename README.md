@@ -6,14 +6,14 @@
 <img src="https://github.com/qavero/qavero/blob/main/icons/cat5.png" title="" alt="" width="" height="30"/>  сейчас я работаю над проектом [Модульная платформа. Конструктор ботов](https://github.com/modular-platform-it)
 
 
-### <img src="https://github.com/qavero/qavero/blob/main/icons/cat1.png" title="" alt="" width="30" height="30"/> Technology stack:
+### <img src="https://github.com/qavero/qavero/blob/main/icons/cat1.png" title="" alt="" width="30" height="30"/> Стек технологий:
 
 <code><img src="https://github.com/qavero/qavero/blob/main/icons/Postman.png" title="Postman" alt="Postman" width="30" height="30"/></code> <code><img src="https://github.com/qavero/qavero/blob/main/icons/swagger.png" title="Swagger" alt="Swagger" width="30" height="30"/></code>   <code><img src="https://github.com/qavero/qavero/blob/main/icons/devtools.png" title="DevTools" alt="DevTools" width="30" height="30"/></code>  <code><img src="https://github.com/qavero/qavero/blob/main/icons/Qase.io.png" title="Qase.io" alt="Qase.io" width="30" height="30"/></code>  <code><img src="https://github.com/qavero/qavero/blob/main/icons/youtrack.png" title="YouTrack" alt="YouTrack" width="30" height="30"/></code>  <code><img src="https://github.com/qavero/qavero/blob/main/icons/figma.svg" title="Figma" alt="Figma" width="30" height=""/></code> <code><img src="https://github.com/qavero/qavero/blob/main/icons/cygwin.png" title="CygWin" alt="CygWin" width="30" height="30"/></code>  <code><img src="https://github.com/qavero/qavero/blob/main/icons/charlesproxy.png" title="Charles proxy" alt="Charles proxy" width="30" height="30"/></code>  <code><img src="https://github.com/qavero/qavero/blob/main/icons/Android_Studio_icon_(2023).svg.png" title="Android Studio" alt="Android Studio" width="30" height="30"/></code>  <code><img src="https://github.com/qavero/qavero/blob/main/icons/Sql.png" title="SQL" alt="SQL" width="30" height="30"/></code>  <code><img src="https://github.com/qavero/qavero/blob/main/icons/github_logo_icon.png" title="Github" alt="Github" width="30" height="30"/></code> <code><img src="https://github.com/qavero/qavero/blob/main/icons/miro.png" title="Miro" alt="Miro" width="30" height="30"/></code>  <a href="https://github.com/qavero/Git"><code><img src="https://github.com/qavero/qavero/blob/main/icons/git.png" title="Git" alt="Git" width="30" height=""/></code></a> <code><img src="https://github.com/qavero/qavero/blob/main/icons/GitBash.png" title="GitBash" alt="GitBash" width="30" height=""/></code>   
 
-### <img src="https://github.com/qavero/qavero/blob/main/icons/cat4.png" title="" alt="" width="30" height="30"/> Learning:
+### <img src="https://github.com/qavero/qavero/blob/main/icons/cat4.png" title="" alt="" width="30" height="30"/> Изучаю сейчас:
 <a href="https://github.com/qavero/Docker"><code><img src="https://github.com/qavero/qavero/blob/main/icons/docker_original_wordmark_logo_icon_146557.png" title="Docker" alt="Docker" width="40" height=""/></code></a>  <code><img src="https://github.com/qavero/qavero/blob/main/icons/pngwing.com%20(1).png" title="Python" alt="Python" width="40" height=""/></code> <code><img src="https://github.com/qavero/qavero/blob/main/icons/icons8-pycharm-480.png" title="PyCharm" alt="PyCharm" width="40" height=""/></code>
 
-### <img src="https://github.com/qavero/qavero/blob/main/icons/cat3.png" title="" alt="" width="30" height="30"/> my CV:
+### <img src="https://github.com/qavero/qavero/blob/main/icons/cat3.png" title="" alt="" width="30" height="30"/> Моё резюме:
 
 - [Link to my CV](https)
  
@@ -34,7 +34,7 @@
 - [Можно посмотреть тут](https://github.com/qavero/QA-Portfolio?tab=readme-ov-file#-cetificates)
 -->
 
- ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat8.png" title="" alt="" width="30" height="30"/> Contact:
+ ### <img src="https://github.com/qavero/qavero/blob/main/icons/cat8.png" title="" alt="" width="30" height="30"/> Связаться со мной:
  [<img src="https://github.com/qavero/qavero/blob/main/icons/icons8-gmail-94.png" title="magelat@gmail.com" alt="magelat@gmail.com" width="30" height="30"/>](mailto:magelat@gmail.com) [<img src="https://github.com/qavero/qavero/blob/main/icons/telegram480.png" title="@qavero" alt="@qavero" width="" height="30"/>](https://t.me/qavero)
  <p align="right"> 
 <img src="https://komarev.com/ghpvc/?username=qavero&color=30D5C8&style=plastic&label=views"/></a>
